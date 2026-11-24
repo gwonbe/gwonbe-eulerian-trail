@@ -1,1 +1,1 @@
-# gwonbe-eulerian-trail
+# eulerian_trail
